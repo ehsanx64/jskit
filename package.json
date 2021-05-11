@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ehsanx64/jskit#readme",
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
   }
